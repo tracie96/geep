@@ -1,5 +1,26 @@
 # Object file
 *.o
+/node_modules
+/dist
+/build
+/docs
+/logs
+/cache
+/temp
+/backup 
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
 
 # Ada Library Information
 *.ali
+
+# Git Information
+.gitignore
+.git
+.gitignore
+.gitignore
