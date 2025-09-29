@@ -1,5 +1,5 @@
 import { Shield, Package, CheckCircle, RefreshCw } from "lucide-react";
-import processImage from "@/assets/process-flow.jpg";
+import processImage from "@/assets/geep.png";
 
 const steps = [
   {
@@ -41,7 +41,7 @@ const HowItWorks = () => {
           <img
             src={processImage}
             alt="GuardPay 4-step process flow"
-            className="w-full max-w-4xl mx-auto rounded-xl shadow-lg"
+            className="w-full "
           />
         </div>
 
